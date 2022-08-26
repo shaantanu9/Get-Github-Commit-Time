@@ -1,0 +1,3 @@
+[submodule "Get-Github-Commit-Time"]
+	path = Get-Github-Commit-Time
+	url = https://github.com/shaantanu9/Get-Github-Commit-Time.git
